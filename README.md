@@ -6,9 +6,6 @@
 - Right click to mark a spot as a bomb
 - Double click to open all 8 spots nearby a target (except ones already marked as bombs using right clicks)
 
-**This is a work in progress**
-
-![emoji minesweeper game play demo](https://cloud.githubusercontent.com/assets/1153134/7797311/19c09214-031d-11e5-99c3-2a380ac7984e.gif)
 
 ### API
 
